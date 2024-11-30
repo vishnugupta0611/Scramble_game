@@ -1,0 +1,22 @@
+export let wordsarr = [
+    "java", "python", "php", "c++", "c#", "html", "css", "javascript", "mongodb", "sql", "oracle", "sqlserver", "express", "nodejs", "react",
+    "array", "queue", "stack", "linkedlist", "tree", "graph", "hashmap", "binarysearch", "recursion", "algorithm", "bubbleSort", "quickSort", "mergeSort", 
+    "insertionSort", "selectionSort", "heapSort", "radixSort", "shellSort", "dsa", "binaryTree", "bst", "avltree", "heap", "queue", "deque", "priorityQueue", 
+    "hashset", "hashTable", "set", "map", "graphTraversal", "bfs", "dfs", "shortestPath", "dijkstra", "floydWarshall", "knapsack", "dynamicProgramming", 
+    "backtracking", "greedy", "dp", "memoization", "iterative", "recursive", "pointer", "reference", "callback", "promise", "async", "await", "eventLoop", 
+    "node", "npm", "webpack", "babel", "typescript", "vue", "angular", "flutter", "swift", "go", "ruby", "scala", "elixir", "kotlin", "flutter", "ionic", 
+    "reactNative", "svelte", "graphql", "restAPI", "json", "xml", "swagger", "oauth", "jwt", "mongodb", "firebase", "socketio", "redis", "kafka", "azure", 
+    "aws", "gcp", "terraform", "docker", "kubernetes", "devops", "ci", "cd", "git", "github", "bitbucket", "gitlab", "jenkins", "svn", "maven", "gradle", 
+    "ant", "jenkins", "travisci", "dockerCompose", "vagrant", "virtualization", "containerization", "linux", "ubuntu", "centos", "bash", "shellScripting", 
+    "powershell", "commandLine", "shell", "linuxCommands", "sed", "awk", "grep", "awk", "sed", "cloud", "microservices", "monolithic", "mvc", "restfulAPI", 
+    "webSocket", "loadBalancing", "caching", "nosql", "sqlInjection", "xss", "csrf", "ssl", "tls", "oauth2", "jwt", "https", "http", "tcp", "udp", "icmp", 
+    "ipaddress", "subnetting", "dhcp", "dns", "http2", "webRTC", "vpc", "subnet", "firewall", "vpn", "proxy", "apiGateway", "loadbalancer", "networking", 
+    "dockerfile", "gitFlow", "restAPI", "swagger", "jsonWebToken", "jwt", "oauth2", "httpMethods", "querystring", "caching", "redis", "multithreading", 
+    "concurrency", "semaphore", "mutex", "raceCondition", "deadlock", "criticalSection", "lock", "atomic", "thread", "process", "task", "asyncProgramming",
+    "parallelism", "exceptionHandling", "tryCatch", "finally", "errorHandling", "logging", "debugging", "unitTesting", "mocking", "testDrivenDevelopment", 
+    "BDD", "TDD", "CI", "CD", "containerization", "cloudComputing", "awsLambda", "dockerSwarm", "grpc", "jwt", "authentication", "authorization", 
+    "security", "encryption", "decryption", "salt", "hashing", "bcrypt", "md5", "sha256", "aes", "rsa", "asymmetricEncryption", "symmetricEncryption", 
+    "cipher", "firewall", "iptables", "ssl", "https", "secureSocket", "sslCertificate", "rdbms", "nosql", "relationalDatabase", "sqlserver", "mongodb", 
+    "cassandra", "mysql", "postgresql", "sqlite", "oracle", "database", "table", "row", "column", "schema", "normalization", "indexing", "queryOptimization", 
+    "transaction", "commit", "rollback", "join", "union", "groupBy", "orderBy", "limit", "insert", "update", "delete", "alter", "create", "drop", "foreignKey"
+];
